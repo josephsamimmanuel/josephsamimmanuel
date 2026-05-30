@@ -12,36 +12,47 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 **👤 Identity**
 
-![Name](https://img.shields.io/badge/Name-Joseph_Sam_Immanuel-70a5fd?style=flat-square&logoColor=white)
-![Role](https://img.shields.io/badge/Role-Full_Stack_Developer-bf91f3?style=flat-square&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Tamil_Nadu,_India-38bdae?style=flat-square&logo=googlemaps&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-14%2B_Months-f7768e?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Joseph_Sam_Immanuel-Full_Stack_Developer-70a5fd?style=flat-square)
+![](https://img.shields.io/badge/📍_Tamil_Nadu-India_🇮🇳-38bdae?style=flat-square)
+![](https://img.shields.io/badge/⏳_Experience-14%2B_Months-f7768e?style=flat-square)
+![](https://img.shields.io/badge/📧_immanueljosephsam%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/📱_%2B91_8508406281-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
-**🏢 Current Role**
+**🏢 Experience**
 
-![Company](https://img.shields.io/badge/Company-Pragan_Tech_Solution-ff9e64?style=flat-square&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Full_Stack_Dev_(Dec_2025–Now)-9ece6a?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Pragan_Tech_Solution-Full_Stack_Dev_│_Dec_2025–Now-9ece6a?style=flat-square&logo=briefcase&logoColor=white)
+![](https://img.shields.io/badge/Tech_Global_India-Frontend_Dev_│_Aug_2024–Mar_2025-e0af68?style=flat-square&logo=briefcase&logoColor=white)
 
 **🎓 Education**
 
-![Degree](https://img.shields.io/badge/ME-Power_Electronics_%26_Drives-e0af68?style=flat-square&logo=graduationcap&logoColor=white)
-![College](https://img.shields.io/badge/College-Jerusalem_College_of_Engineering-7dcfff?style=flat-square&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.41-9ece6a?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/ME-Power_Electronics_%26_Drives_│_CGPA_8.41-7dcfff?style=flat-square&logo=mortarboard&logoColor=white)
+![](https://img.shields.io/badge/Jerusalem_College_of_Engg-2014–2016-bf91f3?style=flat-square)
+![](https://img.shields.io/badge/BE-Electrical_%26_Electronics_│_CGPA_7.69-7dcfff?style=flat-square&logo=mortarboard&logoColor=white)
+![](https://img.shields.io/badge/Francis_Xavier_Engg_College-2010–2014-bf91f3?style=flat-square)
 
 **🏆 Proud Of**
 
-![P1](https://img.shields.io/badge/🎓_Student_Portal-4_User_Roles_%2B_Real--time_Chat-70a5fd?style=flat-square&logoColor=white)
-![P2](https://img.shields.io/badge/🛒_E--Commerce-Shopify_BFF_%2B_Headless_CMS-bf91f3?style=flat-square&logoColor=white)
-![P3](https://img.shields.io/badge/☁️_Cloud-AWS_EC2_%2B_SES_%2B_S3-38bdae?style=flat-square&logoColor=white)
-![P4](https://img.shields.io/badge/💳_Payments-Razorpay_%2B_Twilio_OTP-f7768e?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/🎓_Student_Portal-4_User_Roles_%2B_Real--time_Chat-70a5fd?style=flat-square)
+![](https://img.shields.io/badge/🛒_SPS_E--Commerce-Shopify_BFF_%2B_Headless_CMS-bf91f3?style=flat-square)
+![](https://img.shields.io/badge/☁️_AWS_Deploy-EC2_%2B_SES_%2B_S3-38bdae?style=flat-square)
+![](https://img.shields.io/badge/💳_Payments-Razorpay_%2B_Twilio_OTP-f7768e?style=flat-square)
 
-**⚡ Fun Fact**
+**📜 Certifications**
 
-![Fun](https://img.shields.io/badge/Fun_Fact-ME_in_Power_Electronics_→_Writes_MERN_Apps_😄-ff9e64?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/AI--Augmented_Development-Certified-ff9e64?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Web_Development-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![](https://img.shields.io/badge/Git_%26_GitHub_Essentials-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![](https://img.shields.io/badge/MERN_Stack_Dev-Certified-9ece6a?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL_%26_DB_Design-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
+
+**⚡ Fun Fact & Motto**
+
+![](https://img.shields.io/badge/Fun_Fact-ME_in_Power_Electronics_→_Writes_MERN_Apps_😄-e0af68?style=flat-square)
+![](https://img.shields.io/badge/Motto-Build_➜_Ship_➜_Scale_➜_Repeat_🚀-70a5fd?style=flat-square)
 
 <br clear="right"/>
 

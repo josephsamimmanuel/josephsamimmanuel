@@ -14,38 +14,38 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```javascript
-/**
- * 🚀 Joseph Sam Immanuel
- * AI-Augmented MERN Stack Developer
- */
-const about = {
-  name        : "Joseph Sam Immanuel",
-  location    : "Tamil Nadu, India 🇮🇳",
-  email       : "immanueljosephsam@gmail.com",
-  experience  : "14+ months in production full-stack dev",
-  education   : "ME - Power Electronics & Drives 🎓",
+**👤 Identity**
 
-  currentRole : "Full Stack Developer @ Pragan Tech Solution",
-  proudOf     : [
-    "🎓 Built a multi-role Student Portal (4 user types)",
-    "🛒 Shipped a Shopify headless e-commerce app",
-    "☁️  Deployed on AWS EC2 + SES + S3",
-    "💳 Integrated Razorpay & Twilio OTP",
-  ],
+![Name](https://img.shields.io/badge/Name-Joseph_Sam_Immanuel-70a5fd?style=flat-square&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Full_Stack_Developer-bf91f3?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Tamil_Nadu,_India-38bdae?style=flat-square&logo=googlemaps&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-14%2B_Months-f7768e?style=flat-square&logoColor=white)
 
-  techStack   : {
-    frontend  : ["React.js", "Redux", "Tailwind CSS", "Ant Design"],
-    backend   : ["Node.js", "Express.js", "MongoDB", "Socket.io"],
-    cloud     : ["AWS EC2", "AWS S3", "AWS SES", "Firebase"],
-    tools     : ["Cursor IDE", "Postman", "Swagger", "GitHub"],
-  },
+**🏢 Current Role**
 
-  learning    : ["Next.js", "TypeScript", "Docker", "System Design"],
-  funFact     : "ME in Power Electronics → writes MERN apps 😄",
-  motto       : () => "Build  ➜  Ship  ➜  Scale  ➜  Repeat 🚀",
-};
-```
+![Company](https://img.shields.io/badge/Company-Pragan_Tech_Solution-ff9e64?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Full_Stack_Dev_(Dec_2025–Now)-9ece6a?style=flat-square&logoColor=white)
+
+**🎓 Education**
+
+![Degree](https://img.shields.io/badge/ME-Power_Electronics_%26_Drives-e0af68?style=flat-square&logo=graduationcap&logoColor=white)
+![College](https://img.shields.io/badge/College-Jerusalem_College_of_Engineering-7dcfff?style=flat-square&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.41-9ece6a?style=flat-square&logoColor=white)
+
+**🏆 Proud Of**
+
+![P1](https://img.shields.io/badge/🎓_Student_Portal-4_User_Roles_%2B_Real--time_Chat-70a5fd?style=flat-square&logoColor=white)
+![P2](https://img.shields.io/badge/🛒_E--Commerce-Shopify_BFF_%2B_Headless_CMS-bf91f3?style=flat-square&logoColor=white)
+![P3](https://img.shields.io/badge/☁️_Cloud-AWS_EC2_%2B_SES_%2B_S3-38bdae?style=flat-square&logoColor=white)
+![P4](https://img.shields.io/badge/💳_Payments-Razorpay_%2B_Twilio_OTP-f7768e?style=flat-square&logoColor=white)
+
+**⚡ Fun Fact**
+
+![Fun](https://img.shields.io/badge/Fun_Fact-ME_in_Power_Electronics_→_Writes_MERN_Apps_😄-ff9e64?style=flat-square&logoColor=white)
+
+<br clear="right"/>
+
+
 
 ---
 
@@ -99,18 +99,6 @@ const about = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=josephsamimmanuel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsamimmanuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -126,16 +114,6 @@ const about = {
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josephsamimmanuel&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/josephsamimmanuel)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=josephsamimmanuel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
 
 </div>
 
@@ -216,17 +194,13 @@ const about = {
 
 ## 📚 Currently Learning
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║               🌱  WHAT I'M LEVELLING UP IN                      ║
-╠══════════════╦═══════════════════════════════════════════════════╣
-║  ⚡ Next.js  ║  SSR · SSG · App Router · API Routes · ISR       ║
-║  🐳 Docker   ║  Containerization · Docker Compose · Images      ║
-║  ☸  K8s      ║  Orchestration · Scaling · Pods · Deployments    ║
-║  📘 TypeScript║  Types · Interfaces · Generics · Decorators     ║
-║  🏗  Design   ║  Load Balancing · Caching · Microservices · CDN ║
-╚══════════════╩═══════════════════════════════════════════════════╝
-```
+**🚀 Levelling Up**
+
+![Next.js](https://img.shields.io/badge/Next.js-SSR_%7C_SSG_%7C_App_Router_%7C_API_Routes-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Types_%7C_Interfaces_%7C_Generics_%7C_Decorators-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization_%7C_Compose_%7C_Images-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration_%7C_Pods_%7C_Scaling_%7C_Deployments-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-Load_Balancing_%7C_Caching_%7C_Microservices_%7C_CDN-ff9e64?style=flat-square&logo=buffer&logoColor=white)
 
 ---
 

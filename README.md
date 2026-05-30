@@ -12,34 +12,38 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
-const josephSamImmanuel = {
-  name: "Joseph Sam Immanuel",
-  location: "India 🇮🇳",
-  email: "josephsamimmanuel@gmail.com",
-  role: "AI-Augmented MERN Stack Developer",
-  degree: "ME - Power Electronics & Drives",
+/**
+ * 🚀 Joseph Sam Immanuel
+ * AI-Augmented MERN Stack Developer
+ */
+const about = {
+  name        : "Joseph Sam Immanuel",
+  location    : "Tamil Nadu, India 🇮🇳",
+  email       : "immanueljosephsam@gmail.com",
+  experience  : "14+ months in production full-stack dev",
+  education   : "ME - Power Electronics & Drives 🎓",
 
-  stack: [
-    "React.js", "Node.js", "Express.js",
-    "MongoDB", "Redux", "Tailwind CSS",
-    "AWS (EC2, SES, S3)", "Firebase", "Shopify API"
+  currentRole : "Full Stack Developer @ Pragan Tech Solution",
+  proudOf     : [
+    "🎓 Built a multi-role Student Portal (4 user types)",
+    "🛒 Shipped a Shopify headless e-commerce app",
+    "☁️  Deployed on AWS EC2 + SES + S3",
+    "💳 Integrated Razorpay & Twilio OTP",
   ],
 
-  currentlyLearning: [
-    "Advanced System Design",
-    "Docker & Kubernetes",
-    "TypeScript",
-    "Next.js"
-  ],
+  techStack   : {
+    frontend  : ["React.js", "Redux", "Tailwind CSS", "Ant Design"],
+    backend   : ["Node.js", "Express.js", "MongoDB", "Socket.io"],
+    cloud     : ["AWS EC2", "AWS S3", "AWS SES", "Firebase"],
+    tools     : ["Cursor IDE", "Postman", "Swagger", "GitHub"],
+  },
 
-  thirdPartyIntegrations: ["Razorpay", "Twilio", "socket.io", "Shopify"],
-
-  funFact: "I have an ME in Power Electronics but code MERN apps 😄",
-
-  motto: () => "Build. Ship. Scale. Repeat. 🚀"
+  learning    : ["Next.js", "TypeScript", "Docker", "System Design"],
+  funFact     : "ME in Power Electronics → writes MERN apps 😄",
+  motto       : () => "Build  ➜  Ship  ➜  Scale  ➜  Repeat 🚀",
 };
 ```
 
@@ -99,12 +103,9 @@ const josephSamImmanuel = {
 
 <div align="center">
 
-<a href="https://github.com/josephsamimmanuel">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josephsamimmanuel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/josephsamimmanuel">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsamimmanuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=josephsamimmanuel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsamimmanuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
 
 </div>
 
@@ -134,7 +135,7 @@ const josephSamImmanuel = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=josephsamimmanuel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/josephsamimmanuel)
+<img src="https://github-profile-trophy.vercel.app/?username=josephsamimmanuel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
 
 </div>
 
@@ -215,12 +216,16 @@ const josephSamImmanuel = {
 
 ## 📚 Currently Learning
 
-```
-🧱 Next.js        → SSR, SSG, App Router, API Routes
-🐳 Docker         → Containerization, Docker Compose
-☸️  Kubernetes     → Orchestration, Scaling, Deployments
-📘 TypeScript     → Type Safety, Interfaces, Generics
-🏗️  System Design  → Load Balancing, Caching, Microservices
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║               🌱  WHAT I'M LEVELLING UP IN                      ║
+╠══════════════╦═══════════════════════════════════════════════════╣
+║  ⚡ Next.js  ║  SSR · SSG · App Router · API Routes · ISR       ║
+║  🐳 Docker   ║  Containerization · Docker Compose · Images      ║
+║  ☸  K8s      ║  Orchestration · Scaling · Pods · Deployments    ║
+║  📘 TypeScript║  Types · Interfaces · Generics · Decorators     ║
+║  🏗  Design   ║  Load Balancing · Caching · Microservices · CDN ║
+╚══════════════╩═══════════════════════════════════════════════════╝
 ```
 
 ---
